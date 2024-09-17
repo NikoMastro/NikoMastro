@@ -1,20 +1,20 @@
-# 💫 About Me :
+# 💫 About Me
 
-👋 Hi there! I'm Nikolas Contessotto  
+**👋 Hi there! I'm Nikolas Contessotto**  
 🌿 Software engineer & Graphic Designer, sharing my journey and learnings.  
 🌍 I’m looking to collaborate on open-source projects related to web development.  
 💬 Ask me about my experience in 3D, Animation, Design, and Software development.  
 ⚡ Fun fact: I enjoy video games, especially Age Of Empire 2 ([link](https://en.wikipedia.org/wiki/Age_of_Empires_II))
 
-# 📂 Portfolio
+## 📂 Portfolio
 
 Check out my portfolio [here](#)
 
-# 🌐 Socials
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,12 +31,12 @@ Check out my portfolio [here](#)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 📊 GitHub Stats :
+## 📊 GitHub Stats
 
 ![Nikolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoMastro&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoMastro&layout=compact&theme=dark)
 
-# ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
-"First, solve the problem. Then, write the code."
-— John Johnson
+**"First, solve the problem. Then, write the code."  
+— John Johnson**
