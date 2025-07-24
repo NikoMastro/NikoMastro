@@ -31,11 +31,6 @@ Check out my portfolio [here](https://www.nikofolio.com)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikoMastro&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoMastro&layout=compact&theme=dark)
-## ✍️ My Dev Quote
 
 **"First, solve the problem. Then, write the code."  
 — John Johnson**
