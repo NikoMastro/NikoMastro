@@ -33,9 +33,8 @@ Check out my portfolio [here](https://www.nikofolio.com)
 
 ## 📊 GitHub Stats
 
-![Nikolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoMastro&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikoMastro&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoMastro&layout=compact&theme=dark)
-
 ## ✍️ My Dev Quote
 
 **"First, solve the problem. Then, write the code."  
